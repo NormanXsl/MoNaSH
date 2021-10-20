@@ -1,0 +1,52 @@
+<svg id="tough" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #ff9700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #232b47;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #232b47;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="742.5" cy="1080" rx="202.5" ry="114"/>
+  <ellipse class="cls-1" cx="1116.5" cy="1080" rx="202.5" ry="114"/>
+  <path class="cls-2" d="M57.244,203.977c49.287,0,89.243,51.858,89.243,115.827S106.531,435.631,57.244,435.631-32,383.774-32,319.8,7.956,203.977,57.244,203.977Z"/>
+  <path class="cls-2" d="M211.5,232.417c45.011,0,81.5,32.944,81.5,73.583s-36.489,73.583-81.5,73.583S130,346.639,130,306,166.489,232.417,211.5,232.417Z"/>
+  <ellipse class="cls-3" cx="380.5" cy="300" rx="96.5" ry="105"/>
+  <ellipse class="cls-3" cx="539.5" cy="320" rx="80.5" ry="94"/>
+  <ellipse class="cls-3" cx="687" cy="300.5" rx="82" ry="91.5"/>
+  <ellipse class="cls-3" cx="830.5" cy="322" rx="74.5" ry="105"/>
+  <ellipse class="cls-3" cx="961" cy="327" rx="82" ry="99"/>
+  <ellipse class="cls-3" cx="1102" cy="302.5" rx="66" ry="82.5"/>
+  <path class="cls-2" d="M1239,232.128c44.18,0,80,34.417,80,76.872s-35.82,76.872-80,76.872-80-34.417-80-76.872S1194.82,232.128,1239,232.128Z"/>
+  <ellipse class="cls-3" cx="1835.5" cy="326.5" rx="95.5" ry="109.5"/>
+  <ellipse class="cls-3" cx="1394.5" cy="315" rx="89.5" ry="88"/>
+  <ellipse class="cls-3" cx="1546.5" cy="331" rx="77.5" ry="95"/>
+  <ellipse class="cls-3" cx="1680.5" cy="346" rx="80.5" ry="104"/>
+  <path id="head" class="cls-4" d="M-32-60H1953V286H-30Z"/>
+  <circle class="cls-3" cx="1202" cy="142" r="100"/>
+  <circle class="cls-5" cx="1178.44" cy="142.438" r="45.44"/>
+  <circle class="cls-3" cx="1160" cy="142" r="18"/>
+  <circle class="cls-3" cx="618" cy="142" r="100"/>
+  <circle class="cls-5" cx="641.438" cy="142.438" r="45.438"/>
+  <circle class="cls-3" cx="657" cy="142" r="18"/>
+  <ellipse class="cls-5" cx="861" cy="226" rx="7" ry="16"/>
+  <ellipse class="cls-5" cx="988" cy="226" rx="7" ry="16"/>
+  <path class="cls-6" d="M807,209s53.479-56.521,110,0c45.254-55.979,111-11.25,111,0"/>
+</svg>
